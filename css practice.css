@@ -1,0 +1,147 @@
+p {
+  background: orange;
+  font-size: 24px;
+}
+p {
+  background: green;
+}
+
+.btn {
+  font-size: 16px;
+}
+.btn-danger {
+  backgroud: red;
+}
+.btn-success {
+  background: green;
+}
+
+.task {
+  background: #800000;
+}
+.count {
+  background: #ff0;
+}
+
+.task {
+  background: rgb(128, 0, 0);
+}
+.count {
+  background: rgb(255, 255, 0);
+}
+
+.task {
+  background: rgba(128, 0, 0, .25);
+}
+.count {
+  background: rgba(255, 255, 0, 1);
+}
+
+.task {
+  background: hsl(0, 100%, 25%);
+}
+.count {
+  background: hsl(60, 100%, 50%);
+}
+
+.task {
+  background: hsla(0, 100%, 25%, .25);
+}
+.count {
+  background: hsla(60, 100%, 50%, 1);
+}
+
+.col {
+  width: 50%;
+}
+.banner {
+  font-size: 14px;
+  width: 5em;
+}
+
+p {
+  display: block;
+}
+
+p {
+  display: inline;
+}
+
+p {
+  display: inline-block;
+}
+
+p {
+  display: none;
+}
+
+div {
+  border: 6px solid #949599;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
+}
+
+div {
+  width: 400px;
+}
+
+div {
+  height: 100px;
+}
+
+div {
+  margin: 20px;
+}
+
+div {
+  padding: 20px;
+}
+
+div {
+  margin: 100px 20px;
+}
+
+div {
+  margin: 10px 20px 0 15px;
+}
+
+div {
+  margin-top: 10px;
+  padding-left: 6px;
+}
+
+div {
+  border: 6px solid #949599;
+}
+
+div {
+  border-bottom: 6px solid $949599;
+}
+
+div {
+  border-bottom-width: 12px;
+}
+
+div {
+  border-radius: 5px;
+}
+
+div {
+  border-top-right-radius: 5px;
+}
+
+div {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+}
+
+div {
+  box-sizing: padding-box;
+}
+
+div {
+  box-sizing: border-box;
+}
